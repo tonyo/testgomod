@@ -8,4 +8,5 @@ if [[ $VERSION != v* ]]; then
 fi
 
 git tag "${VERSION}" || true
+git push origin main || true
 git push origin "${VERSION}"
