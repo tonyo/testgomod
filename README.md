@@ -1,2 +1,5 @@
 # testgomod
-Go project for testing modules/submodules
+
+Testing playground for messing with Go modules/submodules. 
+
+Please ignore.
